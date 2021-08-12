@@ -1,6 +1,21 @@
 # Boardsource Master Guide List
 Collection of Guides & Part Lists!!
 
+# Guides
+
+- [Soldering Guide](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
+- [Desoldering Video Guide](https://www.youtube.com/watch?v=ixskRR26Nmst)
+- [Reviung41 Medwa Build Guide](https://medwa.pl/docs/reviung41-build-guide/)
+- [Corne V3](https://imgur.com/a/P5g8rKu)
+- [Corne V2](https://github.com/foostan/crkbd/blob/master/corne-classic/doc/buildguide_en.md)
+- [Reviung41/39](https://reviung.com/build-guide/391/)
+- [Mircodox](https://github.com/ItsWaffIe/waffle_microdox/wiki/Microdox-Build-Guide)
+- [TG4X](https://github.com/MythosMann/tg4x/blob/master/buildguide.md)
+- [Ergo Travel](https://github.com/jpconstantineau/ErgoTravel/blob/master/BuildInstructions.md)
+- [Rhymestone](https://github.com/marksard/Keyboards/blob/master/rhymestone/documents/rhymestone_buildguide.md)
+- [3x4 Macropad](https://boardsource.xyz/help/5ee88cf909fed07af0b23c1d)
+- [Boardsource Ortho Boards](https://boardsource.xyz/help/5f02722b97e16c21d7822fa2)
+- [Lily58](https://github.com/kata0510/Lily58/blob/master/Pro/Doc/buildguide_en.md)
 
 # Soldering 101
 ![Soldering Basics](https://cdn.discordapp.com/attachments/705657159639105626/793930004130955304/unknown.png)
@@ -31,22 +46,6 @@ Check in this order:
 - Work on one LED at a time. Solder a pad on one and move onto the next to let the previous one cool. 
 - Although it may be a pain to work on these LEDs with your controllers in place, I strongly suggest test the LEDs as you go (completely solder 3 at a time) and plug it in to test   that those 3 work. This will save you so much more troubleshooting down the road. 
 - Regarding testing, keep in mind LEDs do follow a data chain (1, 2, 3, 4...) so you must follow that for them to work.
-
-# Guides
-
-- [Soldering Guide](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
-- [Desoldering Video Guide](https://www.youtube.com/watch?v=ixskRR26Nmst)
-- [Reviung41 Medwa Build Guide](https://medwa.pl/docs/reviung41-build-guide/)
-- [Corne V3](https://imgur.com/a/P5g8rKu)
-- [Corne V2](https://github.com/foostan/crkbd/blob/master/corne-classic/doc/buildguide_en.md)
-- [Reviung41/39](https://reviung.com/build-guide/391/)
-- [Mircodox](https://github.com/ItsWaffIe/waffle_microdox/wiki/Microdox-Build-Guide)
-- [TG4X](https://github.com/MythosMann/tg4x/blob/master/buildguide.md)
-- [Ergo Travel](https://github.com/jpconstantineau/ErgoTravel/blob/master/BuildInstructions.md)
-- [Rhymestone](https://github.com/marksard/Keyboards/blob/master/rhymestone/documents/rhymestone_buildguide.md)
-- [3x4 Macropad](https://boardsource.xyz/help/5ee88cf909fed07af0b23c1d)
-- [Boardsource Ortho Boards](https://boardsource.xyz/help/5f02722b97e16c21d7822fa2)
-- [Lily58](https://github.com/kata0510/Lily58/blob/master/Pro/Doc/buildguide_en.md)
 
 # Socketing Parts Lists (Waffle)
 
