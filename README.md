@@ -51,9 +51,9 @@ Check in this order:
 
 This is for socketing Pro Micros, Elite-C's, Nice!Nanos & OLED displays.
 - [Female to Male Mill-Max Sockets](https://www.digikey.com/product-detail/en/mill-max-manufacturing-corp/315-43-164-41-003000/ED4764-64-ND/1212143)
-
 You need a **quantity of 1** for a split keyboard with OLED displays
 They come in rows of 64 and 48 will be used for your micro controllers and another 8 for you OLED displays.
+
 - [Mill-Max Socket Pins](https://www.digikey.com/product-detail/en/mill-max-manufacturing-corp/3320-0-00-15-00-00-03-0/ED1134-ND/4147392)
 These are can be replaced by diode legs but these are all around the best option.
 These are sold individually, therefore you will need to purchase 48 (24 for each controller)
